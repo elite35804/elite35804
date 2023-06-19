@@ -41,21 +41,4 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
    </tr>
   </table>
-  
-## What Can I do
-
-<div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- 
-### NFT Marketplace Development Based on BSC or ETH Token
-I can provide NFT Marketplace in 7 ~ 20 days. This will include NFT Mint, Purchase, Bid, Auction ...
- 
-### Speedy Token & Presale Project Development
-I can provide Token & Presale Smart Contract very quickly based on Etherium, Binance Smart Chain, Matic, Tron...
- 
-### Builing Defi From Pancakeswap and Goose Defi
-I can provide DEX Product from Pancakeswap or Goose Defi in 1 ~ 3 days.
-
-### Finance is our specialty, We already got lots of achievements
-In Cryptocurrencies, Forex and Stocks, We can create and analyze tools at the high level.
 
