@@ -13,7 +13,6 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/html5-2474805-2056091.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
