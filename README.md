@@ -25,10 +25,10 @@ I'm a **Senior Full Stack Developer** with extensive experience designing and de
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.JS-773674?style=for-the-badge&logo=nest.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-336473?style=for-the-badge&logo=flask&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.JS-773674?style=for-the-badge&logo=nest.js&logoColor=white)
 
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-452546?style=for-the-badge&logo=react&logoColor=white)
