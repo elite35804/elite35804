@@ -2,14 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Full Stack Developer** with extensive experience in designing and delivering robust, scalable, and user-focused applications across web and mobile platforms. Proficient in frontend frameworks such as React, React Native, and Vue, as well as backend technologies like Node.js, Django, and Flask. Skilled in automated testing, implementing CI/CD pipelines, and ensuring seamless deployments to cloud environments. Expertise includes end-to-end API development, modern UI/UX practices, and publishing mobile apps to Google Play and the App Store. Adept at collaborating with cross-functional teams to build high-quality, performance-optimized solutions. Known for strong problem-solving skills, adaptability, and the ability to excel in dynamic, fast- paced environments.
-
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [Current Learning Focus]
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about JavaScript, React, Node.js, or databases
-- 📫 How to reach me: [Your Email] or [Your Social Media]
-- ⚡ Fun fact: [Interesting Fact About You]
+I'm a **Senior Full Stack Developer** with extensive experience designing and delivering robust, scalable, and user-focused applications across web and mobile platforms. Proficient in frontend frameworks such as **React, React Native**, and **Vue**, as well as backend technologies like **Node.js, Django**, and **Flask**. Skilled in **automated testing**, implementing **CI/CD pipelines**, and ensuring seamless deployments to cloud environments. Expertise includes **end-to-end API** development, modern **UI/UX practices**, and publishing mobile apps to **Google Play** and the **App Store**. Adept at collaborating with cross-functional teams to build high-quality, performance-optimized solutions. Known for strong problem-solving skills, adaptability, and the ability to excel in dynamic, fast-paced environments.
 
 ## 🛠 Tech Stack
 
