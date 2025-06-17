@@ -72,10 +72,6 @@ I'm a ***Senior Full Stack Developer*** with extensive experience designing and 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com) -->
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elite35804&theme=onedark)
-
 ---
 
 ⭐️ From Randy(https://github.com/elite35804)
