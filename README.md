@@ -29,6 +29,8 @@ I'm a ***Senior Full Stack Developer*** with extensive experience designing and 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-336473?style=for-the-badge&logo=flask&logoColor=white)
+![Go](https://img.shields.io/badge/Go-5443CB?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-543656?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-452546?style=for-the-badge&logo=react&logoColor=white)
