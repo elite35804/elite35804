@@ -70,12 +70,3 @@ I'm a ***Senior Full Stack Developer*** with extensive experience designing and 
 ![pytest](https://img.shields.io/badge/pytest-774788?style=for-the-badge&logo=pytest&logoColor=white)
 ![puppeteer](https://img.shields.io/badge/puppeteer-1564f3?style=for-the-badge&logo=puppeteer&logoColor=white)
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-mcneil-8b7a2a343/)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com) -->
-
----
-
-⭐️ From Randy(https://github.com/elite35804)
